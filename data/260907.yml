@@ -5,7 +5,7 @@ about:
   head: 4bb1163
   archived: false
   latestVersion: "v1.86.0"
-  collectedAt: 2026-09-07T05:18:10Z
+  collectedAt: 2026-09-07T19:20:22Z
 timeline:
   created: 2019-09-12
   lastCommit: 2026-08-16
@@ -95,7 +95,7 @@ total:
   commit: 6557
 ---
 path: /home/runner/.x-repo/github.com/treeverse/lakeFS
-collectedAt: 2026-09-07T05:18:26Z
+collectedAt: 2026-09-07T19:20:42Z
 loc:
   Go:
     code: 167941
@@ -611,7 +611,7 @@ checks:
       - 'Warn: 22 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:27+00:00
+  collectedAt: 2026-09-07T19:20:43+00:00
   platform:
     darwin/arm64:
       name:  lakeFS_1.86.0_Darwin_arm64.tar.gz
