@@ -4,7 +4,7 @@
 
 lakeFS - Data version control for your data lake | Git for data
 
-![lakeFS](https://repo.x-cmd.io/lakeFS.svg)
+![lakeFS](https://repo.x-cmd.io/lakeFS.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,22 @@ x install lakeFS
 - **最新版本**: `v1.86.0` (2026-08-05)
 - **最近提交**: 2026-08-16
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-08-05T15:53:41Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/checksums.txt) | 1.1 KiB | `other` |
+| [lakeFS_1.86.0_Darwin_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_arm64.tar.gz) | 59.0 MiB | `native/darwin/arm64` |
+| [lakeFS_1.86.0_Darwin_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_x86_64.tar.gz) | 62.0 MiB | `native/darwin/x64` |
+| [lakeFS_1.86.0_Linux_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_arm64.tar.gz) | 56.2 MiB | `native/linux/arm64` |
+| [lakeFS_1.86.0_Linux_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_x86_64.tar.gz) | 60.7 MiB | `native/linux/x64` |
+| [lakeFS_1.86.0_Windows_arm64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Windows_arm64.zip) | 56.4 MiB | `native/win/arm64` |
+| [lakeFS_1.86.0_Windows_x86_64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Windows_x86_64.zip) | 61.8 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 5,519 · **Fork**: 475 · **开放 issue**: 3,964 · **贡献者**: 121
+- **Star**: 5,520 · **Fork**: 475 · **开放 issue**: 3,964 · **贡献者**: 121
 
 ## 累计统计
 
@@ -72,4 +83,4 @@ lakeFS 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:30:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:03:51Z._
