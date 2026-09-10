@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.86.0"
   latestRelease: "v1.86.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:29:43Z
+  collectedAt: 2026-09-10T17:03:15Z
 timeline:
   created: 2019-09-12
   lastCommit: 2026-08-16
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-05
   lastPrerelease: 
 popularity:
-  star: 5519
+  star: 5520
   watcher: 41
   fork: 475
   release: 250
@@ -99,7 +99,7 @@ total:
   commit: 6557
 ---
 path: /home/runner/.x-repo/github.com/treeverse/lakeFS
-collectedAt: 2026-09-10T05:29:57Z
+collectedAt: 2026-09-10T17:03:39Z
 loc:
   Go:
     code: 167941
