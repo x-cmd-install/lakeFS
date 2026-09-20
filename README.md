@@ -4,7 +4,7 @@
 
 lakeFS - Data version control for your data lake | Git for data
 
-![lakeFS](https://repo.x-cmd.io/lakeFS.svg)
+[![x-cmd/install — lakeFS Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lakeFS.svg)](https://x-cmd.com/install/lakeFS)
 
 ## Install
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,530 · **Forks**: 478 · **Open issues**: 3,964 · **Contributors**: 121
+- **Stars**: 5,534 · **Forks**: 477 · **Open issues**: 3,964 · **Contributors**: 121
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 6 | 4 | 0 | 1 |
-| last60d | 2026-07-20 | 4 | 16 | 17 | 10 | 1 | 17 |
-| 90d | 2026-06-20 | 5 | 22 | 23 | 14 | 5 | 24 |
-| last180d | 2026-03-22 | 9 | 98 | 43 | 36 | 12 | 101 |
-| 360d | 2025-09-23 | 22 | 478 | 64 | 187 | 57 | 480 |
-| last720d | 2024-09-28 | 65 | 1161 | 82 | 540 | 138 | 1170 |
+| 30d | 2026-08-21 | 0 | 1 | 6 | 4 | 0 | 1 |
+| last60d | 2026-07-22 | 4 | 12 | 14 | 8 | 1 | 17 |
+| 90d | 2026-06-22 | 5 | 22 | 20 | 14 | 5 | 24 |
+| last180d | 2026-03-24 | 9 | 89 | 43 | 33 | 12 | 101 |
+| 360d | 2025-09-25 | 21 | 474 | 64 | 187 | 55 | 480 |
+| last720d | 2024-09-30 | 65 | 1152 | 82 | 539 | 137 | 1168 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:43:28Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:42:07Z._
