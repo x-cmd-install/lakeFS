@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1130,
       "digest": "sha256:e416fc8b71b9cd4f8426b9041952896be4bc7ae751f3773ca4a63e829186d9f6",
-      "download_count": 80,
+      "download_count": 82,
       "created_at": "2026-08-05T16:03:05Z",
       "updated_at": "2026-08-05T16:03:06Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.86.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 61839747,
       "digest": "sha256:e99c9c783c3766e92509f196c2470d72e629582821480b1f31dbb3468ab459bf",
-      "download_count": 185,
+      "download_count": 191,
       "created_at": "2026-08-05T16:03:05Z",
       "updated_at": "2026-08-05T16:03:08Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 64979052,
       "digest": "sha256:acfa4968f7b11d2c67196e990ac883800cacc33dee251e4740228925dabfea93",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-08-05T16:03:05Z",
       "updated_at": "2026-08-05T16:03:08Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58883378,
       "digest": "sha256:a214e8713775e604f9e7ea3726fc808ccc9770ebb75a3b60ed362f1406312547",
-      "download_count": 148,
+      "download_count": 149,
       "created_at": "2026-08-05T16:03:05Z",
       "updated_at": "2026-08-05T16:03:08Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 63614748,
       "digest": "sha256:dc02b075ddcbb0984f96f6be2e0e08d74bd0967920ec89dd00a97b5d400ad8eb",
-      "download_count": 2262,
+      "download_count": 2337,
       "created_at": "2026-08-05T16:03:05Z",
       "updated_at": "2026-08-05T16:03:08Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_x86_64.tar.gz"
