@@ -4,7 +4,7 @@
 
 lakeFS - Data version control for your data lake | Git for data
 
-[![x-cmd/install — lakeFS Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lakeFS.svg)](https://x-cmd.com/install/lakeFS)
+[![x-cmd/install — lakeFS Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/lakeFS.svg)](https://x-cmd.com/install/lakeFS)
 
 ## Install
 
@@ -26,7 +26,7 @@ Total: **322,303** lines of code across **1476** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.9 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
@@ -38,44 +38,44 @@ Lowest-scoring checks:
 
 - **Upstream**: <https://github.com/treeverse/lakeFS>
 - **Homepage**: <https://docs.lakefs.io>
-- **License**: Apache-2.0
+- **License**: NOASSERTION
 
 ## Release
 
-- **Latest**: `v1.86.0` (2026-08-05)
-- **Last commit**: 2026-09-17
+- **Latest**: `v1.87.0` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,538 · **Forks**: 479 · **Open issues**: 3,964 · **Contributors**: 121
+- **Stars**: 5,540 · **Forks**: 479 · **Open issues**: 3,964 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 250 · **Merged PRs**: 5449 · **Open PRs**: 84 · **Closed issues**: 3605 · **Open issues**: 359 · **Commits**: 6558
+- **Releases**: 251 · **Merged PRs**: 5451 · **Open PRs**: 86 · **Closed issues**: 3605 · **Open issues**: 359 · **Commits**: 6560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 1 | 6 | 4 | 0 | 1 |
-| last60d | 2026-07-24 | 3 | 8 | 14 | 7 | 1 | 8 |
-| 90d | 2026-06-24 | 5 | 22 | 19 | 11 | 4 | 24 |
-| last180d | 2026-03-26 | 9 | 83 | 41 | 33 | 12 | 81 |
-| 360d | 2025-09-27 | 21 | 474 | 64 | 187 | 55 | 472 |
-| last720d | 2024-10-02 | 63 | 1146 | 82 | 539 | 137 | 1151 |
+| 30d | 2026-08-24 | 1 | 3 | 7 | 4 | 0 | 3 |
+| last60d | 2026-07-25 | 4 | 10 | 16 | 7 | 1 | 10 |
+| 90d | 2026-06-25 | 6 | 24 | 21 | 11 | 4 | 26 |
+| last180d | 2026-03-27 | 9 | 84 | 42 | 32 | 11 | 83 |
+| 360d | 2025-09-28 | 22 | 476 | 66 | 186 | 54 | 474 |
+| last720d | 2024-10-03 | 64 | 1148 | 84 | 539 | 137 | 1150 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/checksums.txt) | 1.1 KiB | `other` |
-| [lakeFS_1.86.0_Darwin_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_arm64.tar.gz) | 59.0 MiB | `native/darwin/arm64` |
-| [lakeFS_1.86.0_Darwin_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Darwin_x86_64.tar.gz) | 62.0 MiB | `native/darwin/x64` |
-| [lakeFS_1.86.0_Linux_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_arm64.tar.gz) | 56.2 MiB | `native/linux/arm64` |
-| [lakeFS_1.86.0_Linux_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Linux_x86_64.tar.gz) | 60.7 MiB | `native/linux/x64` |
-| [lakeFS_1.86.0_Windows_arm64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Windows_arm64.zip) | 56.4 MiB | `native/win/arm64` |
-| [lakeFS_1.86.0_Windows_x86_64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.86.0/lakeFS_1.86.0_Windows_x86_64.zip) | 61.8 MiB | `native/win/x64` |
+| [checksums.txt](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/checksums.txt) | 1.1 KiB | `other` |
+| [lakeFS_1.87.0_Darwin_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Darwin_arm64.tar.gz) | 58.6 MiB | `native/darwin/arm64` |
+| [lakeFS_1.87.0_Darwin_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Darwin_x86_64.tar.gz) | 61.6 MiB | `native/darwin/x64` |
+| [lakeFS_1.87.0_Linux_arm64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Linux_arm64.tar.gz) | 55.8 MiB | `native/linux/arm64` |
+| [lakeFS_1.87.0_Linux_x86_64.tar.gz](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Linux_x86_64.tar.gz) | 60.3 MiB | `native/linux/x64` |
+| [lakeFS_1.87.0_Windows_arm64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Windows_arm64.zip) | 56.1 MiB | `native/win/arm64` |
+| [lakeFS_1.87.0_Windows_x86_64.zip](https://github.com/treeverse/lakeFS/releases/download/v1.87.0/lakeFS_1.87.0_Windows_x86_64.zip) | 61.4 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:40:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:43:59Z._
