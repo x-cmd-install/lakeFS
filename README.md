@@ -26,13 +26,13 @@ Total: **322,969** lines of code across **1482** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.8 / 10**
+Overall score: **6.7 / 10**
 
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.88.0` (2026-10-01)
-- **Last commit**: 2026-10-01
+- **Last commit**: 2026-10-07
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,553 · **Forks**: 479 · **Open issues**: 3,964 · **Contributors**: 121
+- **Stars**: 5,552 · **Forks**: 480 · **Open issues**: 3,965 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5456 · **Open PRs**: 86 · **Closed issues**: 3606 · **Open issues**: 358 · **Commits**: 6568
+- **Releases**: 252 · **Merged PRs**: 5457 · **Open PRs**: 85 · **Closed issues**: 3607 · **Open issues**: 358 · **Commits**: 6569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 7 | 6 | 0 | 0 | 10 |
-| last60d | 2026-08-08 | 2 | 8 | 10 | 6 | 0 | 11 |
-| 90d | 2026-07-09 | 7 | 24 | 20 | 12 | 2 | 27 |
-| last180d | 2026-04-10 | 10 | 72 | 35 | 28 | 10 | 74 |
-| 360d | 2025-10-12 | 23 | 471 | 66 | 186 | 52 | 477 |
-| last720d | 2024-10-17 | 64 | 1139 | 84 | 532 | 134 | 1144 |
+| 30d | 2026-09-08 | 2 | 8 | 6 | 1 | 0 | 11 |
+| last60d | 2026-08-09 | 2 | 9 | 9 | 6 | 0 | 12 |
+| 90d | 2026-07-10 | 6 | 25 | 20 | 13 | 2 | 28 |
+| last180d | 2026-04-11 | 10 | 73 | 35 | 29 | 10 | 75 |
+| 360d | 2025-10-13 | 23 | 472 | 65 | 187 | 51 | 478 |
+| last720d | 2024-10-18 | 64 | 1139 | 83 | 532 | 134 | 1144 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:33:22Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:39:23Z._

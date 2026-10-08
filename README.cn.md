@@ -26,13 +26,13 @@ x install lakeFS
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.8 / 10**
+总评分: **6.7 / 10**
 
 评分最低的几项:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install lakeFS
 ## 发布
 
 - **最新版本**: `v1.88.0` (2026-10-01)
-- **最近提交**: 2026-10-01
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 5,553 · **Fork**: 479 · **开放 issue**: 3,964 · **贡献者**: 121
+- **Star**: 5,552 · **Fork**: 480 · **开放 issue**: 3,965 · **贡献者**: 121
 
 ## 累计统计
 
-- **发布数**: 252 · **已合并 PR**: 5456 · **开放 PR**: 86 · **已关闭 issue**: 3606 · **开放 issue**: 358 · **提交数**: 6568
+- **发布数**: 252 · **已合并 PR**: 5457 · **开放 PR**: 85 · **已关闭 issue**: 3607 · **开放 issue**: 358 · **提交数**: 6569
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 7 | 6 | 0 | 0 | 10 |
-| last60d | 2026-08-08 | 2 | 8 | 10 | 6 | 0 | 11 |
-| 90d | 2026-07-09 | 7 | 24 | 20 | 12 | 2 | 27 |
-| last180d | 2026-04-10 | 10 | 72 | 35 | 28 | 10 | 74 |
-| 360d | 2025-10-12 | 23 | 471 | 66 | 186 | 52 | 477 |
-| last720d | 2024-10-17 | 64 | 1139 | 84 | 532 | 134 | 1144 |
+| 30d | 2026-09-08 | 2 | 8 | 6 | 1 | 0 | 11 |
+| last60d | 2026-08-09 | 2 | 9 | 9 | 6 | 0 | 12 |
+| 90d | 2026-07-10 | 6 | 25 | 20 | 13 | 2 | 28 |
+| last180d | 2026-04-11 | 10 | 73 | 35 | 29 | 10 | 75 |
+| 360d | 2025-10-13 | 23 | 472 | 65 | 187 | 51 | 478 |
+| last720d | 2024-10-18 | 64 | 1139 | 83 | 532 | 134 | 1144 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ lakeFS 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:33:24Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:39:24Z._
