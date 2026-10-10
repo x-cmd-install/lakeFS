@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,554 · **Forks**: 480 · **Open issues**: 3,965 · **Contributors**: 121
+- **Stars**: 5,552 · **Forks**: 481 · **Open issues**: 3,965 · **Contributors**: 121
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5457 · **Open PRs**: 85 · **Closed issues**: 3607 · **Open issues**: 358 · **Commits**: 6569
+- **Releases**: 252 · **Merged PRs**: 5457 · **Open PRs**: 86 · **Closed issues**: 3607 · **Open issues**: 358 · **Commits**: 6569
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 2 | 8 | 6 | 1 | 0 | 11 |
-| last60d | 2026-08-10 | 2 | 9 | 9 | 6 | 0 | 12 |
-| 90d | 2026-07-11 | 6 | 25 | 20 | 13 | 2 | 28 |
-| last180d | 2026-04-12 | 10 | 73 | 35 | 29 | 10 | 75 |
-| 360d | 2025-10-14 | 23 | 472 | 65 | 187 | 51 | 478 |
-| last720d | 2024-10-19 | 64 | 1139 | 83 | 532 | 134 | 1144 |
+| 30d | 2026-09-10 | 2 | 8 | 7 | 1 | 0 | 11 |
+| last60d | 2026-08-11 | 2 | 9 | 10 | 6 | 0 | 12 |
+| 90d | 2026-07-12 | 6 | 25 | 20 | 13 | 2 | 28 |
+| last180d | 2026-04-13 | 10 | 72 | 36 | 29 | 10 | 75 |
+| 360d | 2025-10-15 | 23 | 471 | 66 | 184 | 50 | 478 |
+| last720d | 2024-10-20 | 64 | 1139 | 84 | 529 | 134 | 1144 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:42:20Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:21:41Z._
