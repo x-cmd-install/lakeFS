@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 61503042,
       "digest": "sha256:bfc32d9d44ce2c125d539badbaff26148b6d3773991ccc8bb2536820ec884519",
-      "download_count": 52,
+      "download_count": 60,
       "created_at": "2026-10-01T09:44:14Z",
       "updated_at": "2026-10-01T09:44:17Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.88.0/lakeFS_1.88.0_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 64611454,
       "digest": "sha256:ce36e46c6f59adfade9cfdce529d129c5dbb33a8f5e0cf28c06d50c13f587bcc",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-01T09:44:14Z",
       "updated_at": "2026-10-01T09:44:16Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.88.0/lakeFS_1.88.0_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 58552321,
       "digest": "sha256:82807650d196033de9ac3309bcc742d56c357ade054097fe700a0a148dcfac64",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-10-01T09:44:14Z",
       "updated_at": "2026-10-01T09:44:17Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.88.0/lakeFS_1.88.0_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 63249481,
       "digest": "sha256:f57b94b63c182e17094d73801dfc230981a5e2723e691fc11e5faae1df670a15",
-      "download_count": 106,
+      "download_count": 113,
       "created_at": "2026-10-01T09:44:14Z",
       "updated_at": "2026-10-01T09:44:16Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.88.0/lakeFS_1.88.0_Linux_x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 64451485,
       "digest": "sha256:5f783b17c3f4c701d0a9821732a58e54a1dfc3a4d29f029c9cb36b034f4d96ef",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-10-01T09:44:14Z",
       "updated_at": "2026-10-01T09:44:17Z",
       "browser_download_url": "https://github.com/treeverse/lakeFS/releases/download/v1.88.0/lakeFS_1.88.0_Windows_x86_64.zip"
