@@ -26,13 +26,13 @@ x install lakeFS
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.7 / 10**
+总评分: **6.8 / 10**
 
 评分最低的几项:
 
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install lakeFS
 
 ## 流行度
 
-- **Star**: 5,554 · **Fork**: 482 · **开放 issue**: 3,965 · **贡献者**: 121
+- **Star**: 5,556 · **Fork**: 482 · **开放 issue**: 3,965 · **贡献者**: 121
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install lakeFS
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 8 | 7 | 1 | 0 | 10 |
-| last60d | 2026-08-15 | 2 | 9 | 10 | 6 | 0 | 11 |
-| 90d | 2026-07-16 | 6 | 25 | 20 | 13 | 1 | 28 |
-| last180d | 2026-04-17 | 10 | 60 | 36 | 26 | 10 | 61 |
-| 360d | 2025-10-19 | 23 | 467 | 65 | 181 | 50 | 472 |
-| last720d | 2024-10-24 | 63 | 1133 | 84 | 526 | 133 | 1139 |
+| 30d | 2026-09-15 | 2 | 7 | 7 | 1 | 0 | 10 |
+| last60d | 2026-08-16 | 2 | 9 | 10 | 6 | 0 | 11 |
+| 90d | 2026-07-17 | 6 | 25 | 20 | 12 | 1 | 28 |
+| last180d | 2026-04-18 | 10 | 60 | 36 | 26 | 10 | 61 |
+| 360d | 2025-10-20 | 23 | 467 | 65 | 181 | 50 | 472 |
+| last720d | 2024-10-25 | 63 | 1133 | 84 | 526 | 133 | 1139 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ lakeFS 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261014.yml` · 2026-10-14T05:33:50Z._
+_数据快照: `data/card/261015.yml` · 2026-10-15T05:11:28Z._
