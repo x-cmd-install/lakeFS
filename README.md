@@ -14,7 +14,7 @@ x install lakeFS
 
 ## Code insight
 
-Total: **323,042** lines of code across **1482** files in the top 5 languages.
+Total: **323,149** lines of code across **1482** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.88.0` (2026-10-01)
-- **Last commit**: 2026-10-29
+- **Last commit**: 2026-11-01
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,575 · **Forks**: 489 · **Open issues**: 3,991 · **Contributors**: 122
+- **Stars**: 5,575 · **Forks**: 490 · **Open issues**: 3,991 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5459 · **Open PRs**: 94 · **Closed issues**: 3636 · **Open issues**: 355 · **Commits**: 6571
+- **Releases**: 252 · **Merged PRs**: 5460 · **Open PRs**: 97 · **Closed issues**: 3636 · **Open issues**: 355 · **Commits**: 6572
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 2 | 10 | 3 | 24 | 3 |
-| last60d | 2026-09-02 | 2 | 10 | 16 | 7 | 24 | 13 |
-| 90d | 2026-08-03 | 4 | 12 | 20 | 9 | 24 | 19 |
-| last180d | 2026-05-05 | 10 | 55 | 40 | 24 | 32 | 61 |
-| 360d | 2025-11-06 | 22 | 438 | 71 | 175 | 68 | 447 |
-| last720d | 2024-11-11 | 60 | 1107 | 90 | 517 | 149 | 1111 |
+| 30d | 2026-10-03 | 0 | 3 | 13 | 3 | 24 | 3 |
+| last60d | 2026-09-03 | 2 | 11 | 18 | 3 | 24 | 14 |
+| 90d | 2026-08-04 | 3 | 13 | 23 | 9 | 24 | 15 |
+| last180d | 2026-05-06 | 10 | 56 | 43 | 23 | 32 | 55 |
+| 360d | 2025-11-07 | 22 | 439 | 74 | 175 | 68 | 441 |
+| last720d | 2024-11-12 | 60 | 1108 | 93 | 516 | 148 | 1109 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:42:00Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:41:23Z._
