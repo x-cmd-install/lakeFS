@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 6 | 16 | 5 | 20 | 7 |
-| last60d | 2026-09-13 | 2 | 14 | 20 | 6 | 20 | 18 |
-| 90d | 2026-08-14 | 2 | 15 | 23 | 11 | 20 | 18 |
-| last180d | 2026-05-16 | 9 | 51 | 42 | 26 | 27 | 55 |
-| 360d | 2025-11-17 | 21 | 422 | 74 | 170 | 62 | 422 |
-| last720d | 2024-11-22 | 59 | 1098 | 92 | 512 | 137 | 1103 |
+| 30d | 2026-10-14 | 0 | 6 | 16 | 5 | 20 | 7 |
+| last60d | 2026-09-14 | 2 | 14 | 20 | 6 | 20 | 18 |
+| 90d | 2026-08-15 | 2 | 15 | 23 | 11 | 20 | 18 |
+| last180d | 2026-05-17 | 9 | 51 | 42 | 26 | 27 | 55 |
+| 360d | 2025-11-18 | 21 | 418 | 74 | 168 | 62 | 422 |
+| last720d | 2024-11-23 | 59 | 1098 | 92 | 512 | 137 | 1102 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:04:30Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:34:10Z._
