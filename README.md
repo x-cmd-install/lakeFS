@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.88.0` (2026-10-01)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,586 · **Forks**: 493 · **Open issues**: 3,992 · **Contributors**: 123
+- **Stars**: 5,587 · **Forks**: 493 · **Open issues**: 3,992 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5467 · **Open PRs**: 97 · **Closed issues**: 3642 · **Open issues**: 350 · **Commits**: 6580
+- **Releases**: 252 · **Merged PRs**: 5470 · **Open PRs**: 97 · **Closed issues**: 3642 · **Open issues**: 350 · **Commits**: 6583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 9 | 11 | 6 | 19 | 10 |
-| last60d | 2026-09-20 | 2 | 16 | 17 | 7 | 21 | 18 |
-| 90d | 2026-08-21 | 2 | 17 | 22 | 11 | 21 | 21 |
-| last180d | 2026-05-23 | 8 | 47 | 40 | 25 | 27 | 53 |
-| 360d | 2025-11-24 | 21 | 407 | 70 | 164 | 61 | 408 |
-| last720d | 2024-11-29 | 59 | 1096 | 91 | 513 | 136 | 1101 |
+| 30d | 2026-10-21 | 0 | 12 | 11 | 6 | 18 | 13 |
+| last60d | 2026-09-21 | 2 | 19 | 17 | 7 | 21 | 21 |
+| 90d | 2026-08-22 | 2 | 20 | 22 | 11 | 21 | 24 |
+| last180d | 2026-05-24 | 8 | 50 | 40 | 25 | 27 | 56 |
+| 360d | 2025-11-25 | 21 | 406 | 70 | 163 | 60 | 411 |
+| last720d | 2024-11-30 | 59 | 1099 | 91 | 513 | 136 | 1104 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:41:59Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:56:45Z._
