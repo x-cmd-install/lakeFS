@@ -14,14 +14,14 @@ x install lakeFS
 
 ## Code insight
 
-Total: **323,609** lines of code across **1484** files in the top 5 languages.
+Total: **323,617** lines of code across **1484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 150,497 | 10,240 | 22,241 | 766 |
-| Java | 51,142 | 28,127 | 12,036 | 326 |
-| Python | 41,797 | 2,222 | 6,910 | 316 |
-| Yaml | 19,187 | 5 | 249 | 70 |
+| Go | 150,499 | 10,241 | 22,242 | 766 |
+| Java | 51,141 | 28,131 | 12,036 | 326 |
+| Python | 41,800 | 2,222 | 6,910 | 316 |
+| Yaml | 19,191 | 5 | 249 | 70 |
 | Json | 15,724 | 0 | 0 | 6 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.88.0` (2026-10-01)
-- **Last commit**: 2026-11-19
+- **Last commit**: 2026-11-25
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,592 · **Forks**: 499 · **Open issues**: 3,993 · **Contributors**: 123
+- **Stars**: 5,593 · **Forks**: 498 · **Open issues**: 3,993 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5470 · **Open PRs**: 101 · **Closed issues**: 3642 · **Open issues**: 351 · **Commits**: 6583
+- **Releases**: 252 · **Merged PRs**: 5471 · **Open PRs**: 100 · **Closed issues**: 3642 · **Open issues**: 351 · **Commits**: 6584
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 12 | 14 | 6 | 18 | 12 |
-| last60d | 2026-09-26 | 1 | 15 | 20 | 7 | 22 | 19 |
-| 90d | 2026-08-27 | 2 | 20 | 25 | 11 | 22 | 24 |
-| last180d | 2026-05-29 | 8 | 50 | 44 | 25 | 28 | 54 |
-| 360d | 2025-11-30 | 20 | 399 | 74 | 156 | 60 | 397 |
-| last720d | 2024-12-05 | 59 | 1098 | 95 | 512 | 137 | 1103 |
+| 30d | 2026-10-27 | 0 | 13 | 13 | 6 | 18 | 13 |
+| last60d | 2026-09-27 | 1 | 16 | 19 | 7 | 22 | 20 |
+| 90d | 2026-08-28 | 2 | 21 | 24 | 11 | 22 | 25 |
+| last180d | 2026-05-30 | 8 | 51 | 43 | 25 | 28 | 55 |
+| 360d | 2025-12-01 | 20 | 398 | 73 | 156 | 60 | 398 |
+| last720d | 2024-12-06 | 59 | 1099 | 94 | 512 | 137 | 1104 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:24:01Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:03Z._
