@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.88.0` (2026-10-01)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 5,593 · **Forks**: 498 · **Open issues**: 3,993 · **Contributors**: 123
+- **Stars**: 5,594 · **Forks**: 497 · **Open issues**: 3,993 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 252 · **Merged PRs**: 5471 · **Open PRs**: 100 · **Closed issues**: 3642 · **Open issues**: 351 · **Commits**: 6584
+- **Releases**: 252 · **Merged PRs**: 5472 · **Open PRs**: 100 · **Closed issues**: 3642 · **Open issues**: 351 · **Commits**: 6585
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 13 | 13 | 6 | 18 | 13 |
-| last60d | 2026-09-27 | 1 | 16 | 19 | 7 | 22 | 20 |
-| 90d | 2026-08-28 | 2 | 21 | 24 | 11 | 22 | 25 |
-| last180d | 2026-05-30 | 8 | 51 | 43 | 25 | 28 | 55 |
-| 360d | 2025-12-01 | 20 | 398 | 73 | 156 | 60 | 398 |
-| last720d | 2024-12-06 | 59 | 1099 | 94 | 512 | 137 | 1104 |
+| 30d | 2026-10-28 | 0 | 13 | 13 | 5 | 18 | 14 |
+| last60d | 2026-09-28 | 1 | 17 | 19 | 7 | 22 | 21 |
+| 90d | 2026-08-29 | 2 | 22 | 24 | 11 | 22 | 26 |
+| last180d | 2026-05-31 | 8 | 52 | 43 | 25 | 28 | 56 |
+| 360d | 2025-12-02 | 20 | 398 | 72 | 153 | 60 | 399 |
+| last720d | 2024-12-07 | 59 | 1100 | 94 | 512 | 137 | 1105 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for lakeFS lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:03Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:56:11Z._
